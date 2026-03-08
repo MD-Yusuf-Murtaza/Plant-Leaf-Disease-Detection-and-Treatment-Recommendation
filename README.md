@@ -75,9 +75,6 @@ cp /path/to/finetuned_yolo12n.pt models/
 ### Step 3 — Install IndicTransToolkit (via packages.txt)
 
 Create a `packages.txt` file in the Space root:
-```
-git
-```
 
 Then add this to a `setup.sh` or as a `pre_install` step. The toolkit is installed automatically via the git dependency in requirements.txt using:
 ```
