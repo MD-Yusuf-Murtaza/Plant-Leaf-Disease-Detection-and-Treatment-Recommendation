@@ -15,6 +15,12 @@ short_description: Plant disease detection with YOLO & multilingual RAG
 
 A production-grade, multilingual plant disease detection and treatment advisory app built for Indian farmers.
 
+**🌐 Live Demo**: [https://huggingface.co/spaces/MDYusufMurtaza/plant-disease-detector](https://huggingface.co/spaces/MDYusufMurtaza/plant-disease-detector)
+
+---
+## Project Overview
+This project uses YOLO models to detect plant diseases from leaf images and provides treatment recommendations using RAG (Retrieval-Augmented Generation) and Google's Gemini AI. The app supports multiple Indian languages including English, Hindi, and Telugu, making it accessible to farmers across different regions.
+
 ---
 
 ## 🚀 Features
